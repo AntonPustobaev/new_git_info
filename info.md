@@ -23,3 +23,5 @@
 
 И вернуттся
 >git checkout master
+
+![Картинка](pic.jpg)
