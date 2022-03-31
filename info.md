@@ -47,9 +47,9 @@
  
  Для перехода на др ветки
  > git checkout branch_name
- 
+
  Что бы удалить ветку
- > it branch -d имя файла
+ > git branch -d branch_name
  
 И в заключении картинка
 ![Картинка](pic.jpg)
