@@ -51,5 +51,13 @@
  Что бы удалить ветку
  > git branch -d branch_name
  
+  Если -d не работает, ставим 
+  git branch -D branch_name
+ 
+
+ Для визуализации веток
+ > git log --graph
+
+ 
 И в заключении картинка
 ![Картинка](pic.jpg)
